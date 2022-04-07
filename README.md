@@ -14,8 +14,10 @@
 ## ⚡ GitHub Stats #
 ![Denki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzDenkiRepo&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDenkiRepo&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItzDenkiVN&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ItzDenkiRepo)  
 ![Profile views](https://gpvc.arturio.dev/ItzDenkiRepo)  
+
 
 ## 📫 Contact me
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/denki.official1)
