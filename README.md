@@ -26,5 +26,5 @@
 [![Website](https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=cairometro&color=5037EA&logoColor=white)](https://ayamebot.tk)
 
 ## 🎉 Count
-[!Follower](https://img.shields.io/github/followers/ItzDenkiRepo?color=%23FFF333&label=Follower&logo=github&style=plastic)
-[!Stars](https://img.shields.io/github/stars/ItzDenkiRepo?color=%23FFF333&label=Stars&logo=Github&style=plastic)
+[![Follower](https://img.shields.io/github/followers/ItzDenkiRepo?color=%23FFF333&label=Follower&logo=github&style=plastic)]
+[![Stars](https://img.shields.io/github/stars/ItzDenkiRepo?color=%23FFF333&label=Stars&logo=Github&style=plastic)]
