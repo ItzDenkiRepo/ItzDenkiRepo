@@ -13,8 +13,7 @@
 
 ## ⚡ GitHub Stats #
 ![Denki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzDenkiRepo&show_icons=true&theme=tokyonight)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDenkiRepo&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/hongduccodedao/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDenkiRepo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDenkiRepo&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ItzDenkiRepo)  
 ![Profile views](https://gpvc.arturio.dev/ItzDenkiRepo)  
 
