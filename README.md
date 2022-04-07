@@ -8,4 +8,4 @@ Here is about me:
 
 ![Denki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzDenkiRepo&show_icons=true&theme=tokyonight)
 
-https://i.imgur.com/V2csjKc.png
+![Denki's](https://i.imgur.com/V2csjKc.png)
