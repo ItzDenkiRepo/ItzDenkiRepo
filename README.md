@@ -1,17 +1,29 @@
-### Hi there 👋, My Name is Denki
+## 📝 About me
+
+```py
+About Me = [
+    "My name is Denki. Currently I am a student of Nguyen Du Secondary School."
+    "I am learning about NodeJs and Python"
+    "Also I have free lesson to learn Python in https://discord.gg/KQfZfx84"
+    "I’m currently working on Ayame Bot"
+    "I’m currently learning NodeJS, Python"
+    "Fun fact: I am a WIbu"
+]
+```
+
 ![](https://i.imgur.com/V2csjKc.png)
 
+## ⚡ GitHub Stats #
 ![Denki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzDenkiRepo&show_icons=true&theme=tokyonight)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDenkiRepo&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/hongduccodedao/github-readme-stats)
 
 
-Skills: NodeJS / Python
 
-- 🔭 I’m currently working on Ayame Bot 
-- 🌱 I’m currently learning NodeJS, Python 
-- ⚡ Fun fact: Live in Vietnam 
+## 📫 Contact me
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/denki.official1)
+[![Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&color=5037EA&logoColor=white)](https://discord.gg/KQfZfx84)
+[![Website](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=cairometro&color=5037EA&logoColor=white)](https://ayamebot.tk)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ItzDenkiRepo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/denki.official1) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cairometro.svg' alt='cairometro' height='40'>](https://ayamebot.tk)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDenkiRepo)](https://github.com/anuraghazra/github-readme-stats)
 
