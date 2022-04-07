@@ -19,7 +19,7 @@
 ![Profile views](https://gpvc.arturio.dev/ItzDenkiRepo)  
 
 ## 🤷‍♂️ Technology
-[![Python](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Python](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 ## 🎉 Count
