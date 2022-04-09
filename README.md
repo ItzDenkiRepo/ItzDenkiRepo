@@ -1,7 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F40C&lines=Hi!+I'm+Denki+%F0%9F%91%8B;Owner+of+Ayame+Bot)](https://git.io/typing-svg)
 ## 📝 About me
-
 ```py
-    "My name is Denki. Currently I am a student of Nguyen Du Secondary School."
+    "Currently I am a student of Nguyen Du Secondary School."
     "I am learning about NodeJs and Python"
     "Also I have free lesson to learn Python in https://discord.gg/KQfZfx84"
     
