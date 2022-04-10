@@ -9,7 +9,7 @@
     "I’m currently learning NodeJS, Python"
     "Fun fact: I am a WIbu"
 ```
-![Picture 1](https://i.imgur.com/V2csjKc.png)
+![Picture 1](https://images2.alphacoders.com/117/thumb-350-1176248.jpg)
 
 ## ⚡ GitHub Stats #
 ![Denki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzDenkiRepo&show_icons=true&theme=tokyonight)
